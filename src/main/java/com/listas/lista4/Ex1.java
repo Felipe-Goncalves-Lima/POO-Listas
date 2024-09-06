@@ -1,10 +1,9 @@
 package com.listas.lista4;
 
-import java.io.InterruptedIOException;
 import java.util.Scanner;
 
 public class Ex1 {
-    public static void resolucao() {
+    public static void resolucao(){
 
         Scanner leia = new Scanner(System.in);
 
