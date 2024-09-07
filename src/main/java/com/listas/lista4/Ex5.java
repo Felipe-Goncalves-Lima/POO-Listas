@@ -60,7 +60,6 @@ public class Ex5 {
                     System.out.println("Opção inválida, tente novamente.");
             }
         }
-
         scanner.close();
     }
 }
